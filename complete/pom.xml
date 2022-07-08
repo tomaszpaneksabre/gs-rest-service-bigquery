@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>rest-service-complete</artifactId>
+	<artifactId>rest-service-complete-bigquery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-service-complete-bigquery</name>
 	<description>Demo project for Spring Boot</description>
